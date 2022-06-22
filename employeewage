@@ -1,0 +1,7 @@
+#!/bin/bash -x
+
+empRateperhour=20;
+empHrs=8;
+
+salary=$(($empHrs*$empRatehour));
+	echo $salary
